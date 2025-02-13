@@ -71,6 +71,6 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 This project is open-source and released under the **MIT License**. You are free to use, modify, and distribute it as per the license terms.
 
 ## Author
-Developed by **[Your Name]**. 
+Developed by **[Ahmed Eldkrory]**. 
 For inquiries or contributions, please reach out via GitHub or email.
 
